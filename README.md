@@ -1,6 +1,6 @@
 # FaceCheck System
 
-An AI-powered Face Recognition System built using React, Flask, DeepFace, OpenCV, and TensorFlow for real-time face registration, recognition, and verification.
+An Face Recognition System built using React, Flask, DeepFace, OpenCV, and TensorFlow for real-time face registration, recognition, and verification.
 
 ## Features
 
