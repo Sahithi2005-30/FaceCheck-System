@@ -1,6 +1,6 @@
 # FaceCheck System
 
-An Face Recognition System built using React, Flask, DeepFace, OpenCV, and TensorFlow for real-time face registration, recognition, and verification.
+ Face recognition system with real-time recognition, duplicate-face detection, and invalid image validation using React, Flask, DeepFace, and OpenCV.
 
 ## Features
 
